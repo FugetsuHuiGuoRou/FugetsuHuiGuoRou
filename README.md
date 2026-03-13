@@ -5,8 +5,7 @@
 ---
 
 🔭 **Atualmente estou trabalhando em:**  
-- Meu primeiro jogo no RPG Maker MV  
-- Testes e protótipos no Game Maker  
+- Meu primeiro bot de Discord
 
 🌱 **Atualmente aprendendo:**  
 - Fundamentos de programação  
