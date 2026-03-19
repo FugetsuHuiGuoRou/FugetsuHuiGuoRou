@@ -20,7 +20,7 @@
 ## ⚙️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,docker,aws,git" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,docker,aws,git,mongodb" />
 </p>
 
 <p align="center">
