@@ -1,6 +1,6 @@
-# 👋 Hey there! I'm Guilherme
+# 👋 Hey! I'm Guilherme
 
-🇧🇷 I'm a Brazilian developer who’s passionate about technology and always curious to learn more.
+🇧🇷 Brazilian dev who’s into tech and always trying to learn something new.
 
 💻 Developer | 🚀 Tech enthusiast
 
@@ -10,10 +10,12 @@
 
 ## 🧠 About Me
 
-* 🎓 Currently studying programming
-* 💼 Focused on becoming a better developer every day
+* 🎓 Currently learning programming
+* 💼 Trying to get better every day
 * 🚀 Always learning something new
-* 🔥 Constantly pushing myself to grow and improve
+* 🔥 Always pushing myself to improve
+* 🤖 I love building automations
+* 🎮 Also really into making games
 
 ---
 
@@ -23,34 +25,46 @@
   <img src="https://skillicons.dev/icons?i=python,html,css,git" />
 </div>
 
-🎮 Also experienced with **GameMaker Studio**
+🎮 I also use **GameMaker Studio** and **RPG Maker MZ**
 
 ---
 
 ## 🤖 Current Project
 
-I built my first **Discord bot using Python**, and right now I'm working on something really exciting:
+I made my first **Discord bot with Python**, and now I’m working on:
 
-* 🔧 Developing an API to integrate the bot with a website
-* 🌐 Planning to make it public in the future
-* 🚀 Improving features and making it more useful over time
+* 🔧 Building an API to connect it with a website
+* 🌐 Planning to make it public someday
+* 🚀 Improving it step by step
 
-This project is a big step for me, and I'm learning a lot while building it.
+It’s a big project for me and I’m learning a lot while doing it.
+
+---
+
+## 🎮 Game Dev Journey
+
+I like making games, even if they’re small or just tests.
+Right now I’m learning and trying things out with GameMaker and RPG Maker.
+
+And yeah… someday I really want to release my own game 🤞
+(still working on it, slowly but surely)
+
+---
+
+## ☁️ Goals & Dreams
+
+* Keep getting better as a dev
+* Build cool and useful stuff
+* Release my own game 🎮
+* ☁️ My biggest goal right now is to work with cloud in the future
+* Turn all this into something bigger
 
 ---
 
 ## 💬 A bit more about me
 
-I’m the kind of person who enjoys building things, breaking them, and then figuring out how to fix them better than before.
-I like exploring new ideas, working on projects, and improving little by little every single day.
-
----
-
-## 📌 Goals
-
-* Keep evolving as a developer
-* Build useful and fun projects
-* Turn passion into something bigger
+I like building stuff, breaking it, and then fixing it better than before.
+Just trying to improve a little every day.
 
 ---
 
