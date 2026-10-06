@@ -9,8 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
