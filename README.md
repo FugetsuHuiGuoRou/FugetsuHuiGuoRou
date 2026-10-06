@@ -1,1 +1,19 @@
-https://tenor.com/view/67-meme-ai-dog-67-dog-gif-7198264032800768333
+## 👋 Hi there, Guilherme!
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=e63950&style=flat" alt="Profile views" />
+
+### When I code, I rely on
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
