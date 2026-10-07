@@ -1,4 +1,4 @@
-## 👋 Hi there, Guilherme!
+## 👋 Hi there, I'm Guilherme!
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=e63950&style=flat" alt="Profile views" />
 
