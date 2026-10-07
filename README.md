@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Guilherme!
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20views&color=e63950&style=flat" alt="Profile views" />
+![Profile views](https://komarev.com/ghpvc/?username=FugetsuHuiGuoRou&label=Profile%20views&color=e63950&style=flat)
 
 ### When I code, I rely on
 
